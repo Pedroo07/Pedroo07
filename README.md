@@ -53,7 +53,7 @@ Sou desenvolvedor focado em evolução constante, buscando sempre melhorar minha
 
 ### 🚀 Projetos em destaque
 
-🔹 Em breve... (adicione aqui seus melhores projetos)
+🔹 Em breve... 
 
 ---
 
