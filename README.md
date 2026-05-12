@@ -1,62 +1,145 @@
-### Olá, eu sou o Pedroo
 
-💻 Desenvolvedor Full Stack  
-📚 Apaixonado por tecnologia e aprendizado constante  
-⚡ Focado em criar soluções modernas e escaláveis  
+# 👋 Olá, eu sou Pedro Henrique
 
----
+<div align="left">
 
-### 🌐 Conecte-se comigo
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedroo07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroo-henrique-314677299/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/dbp50x)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
-
-### 📊 Estatísticas
-
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroo07&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo07&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🛠️ Tecnologias
-
-<div style="display: inline_block"><br/>
-
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-<img alt="next" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-
-<img alt="node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+💻 **Desenvolvedor Full Stack**  
+🚀 Especializado em aplicações web modernas e escaláveis  
+📚 Apaixonado por tecnologia, arquitetura de software e aprendizado contínuo  
+⚡ Transformando ideias em soluções digitais de alto impacto  
 
 </div>
 
 ---
 
-### 💡 Sobre mim
+## 🌐 Conecte-se comigo
 
-Sou desenvolvedor focado em evolução constante, buscando sempre melhorar minhas habilidades técnicas e criar projetos que gerem valor real.
+<p align="left">
+  <a href="https://github.com/Pedroo07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedroo-henrique-314677299/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.link/dbp50x" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:pedroo.henrique.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 Projetos em destaque
+## 👨‍💻 Sobre mim
 
-🔹 Em breve... 
+Sou um desenvolvedor com mais de **4 anos de experiência** na criação de aplicações web e mobile, atuando com tecnologias modernas do ecossistema JavaScript e TypeScript.
+
+Tenho como foco o desenvolvimento de sistemas robustos, escaláveis e com excelente experiência de usuário, aplicando boas práticas de arquitetura, performance e manutenção de código.
+
+Atualmente trabalho como desenvolvedor autônomo, construindo soluções sob medida para diferentes tipos de negócio, incluindo:
+
+- 🛒 E-commerces
+- 💰 Sistemas financeiros
+- 📱 Aplicativos mobile
+- 🏋️ Plataformas fitness
+- 📊 Dashboards administrativos
+- 🔗 APIs e integrações
 
 ---
 
-### 👀 Visitantes
+## 🚀 Stack Principal
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pedroo07.Pedroo07)
+### Front-end
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+### Back-end
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pedroo07&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pedroo07&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🏆 Objetivo Profissional
+
+Atuar no desenvolvimento de softwares de alto nível, contribuindo com soluções escaláveis, performáticas e alinhadas às necessidades de negócio, sempre buscando evolução técnica e excelência na entrega.
+
+---
+
+## 🚀 Projetos em Destaque
+
+Em constante desenvolvimento de projetos nas áreas de:
+
+- 🛒 E-commerce
+- 💳 Gestão financeira
+- 🏋️ Aplicativos fitness
+- 📈 Dashboards administrativos
+- 🔐 Sistemas com autenticação e controle de acesso
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedroo07&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Visitantes
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pedroo07.Pedroo07" alt="Visitors"/>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto a novas oportunidades, parcerias e projetos desafiadores.
+
+</div>
+```
